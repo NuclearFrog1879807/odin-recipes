@@ -13,8 +13,8 @@ ul, ol {
     padding: 0px 50px;
 }
 
-h1, p {
-    margin: 0px 0px;
+h1, h2, p {
+    margin: 0px;
     padding: 0px;
 }
 
